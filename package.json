@@ -1,0 +1,31 @@
+{
+  "name": "@duckcoin/fnv1a",
+  "author": "duckcoinorg",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "FNV-1a hash function implementation in TypeScript",
+  "repository": "https://github.com/duckcoinorg/fnv1a.git",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint . --ext .ts",
+    "prepare": "yarn build"
+  },
+  "keywords": [
+    "hash",
+    "fnv1a",
+    "string-to-number-in-range",
+    "typescript"
+  ],
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@typescript-eslint/eslint-plugin": "^8.32.1",
+    "@typescript-eslint/parser": "^8.32.1",
+    "eslint": "^9.27.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.4",
+    "typescript": "^5.8.3"
+  }
+} 

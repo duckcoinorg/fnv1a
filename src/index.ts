@@ -1,0 +1,1 @@
+export { fnv1aHash, stringToNumberInRange } from './fnv1a'; 
