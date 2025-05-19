@@ -2,7 +2,7 @@
   "name": "@duckcoin/fnv1a",
   "author": "duckcoinorg",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FNV-1a hash function implementation in TypeScript",
   "repository": "https://github.com/duckcoinorg/fnv1a.git",
   "main": "dist/index.js",
