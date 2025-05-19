@@ -5,7 +5,7 @@ A minimalistic TypeScript implementation of the FNV-1a hash function, providing 
 ## Installation
 
 ```bash
-yarn add fnv1a
+yarn add @duckcoin/fnv1a
 ```
 
 ## Usage
